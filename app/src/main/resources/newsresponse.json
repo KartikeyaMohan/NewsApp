@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "Scott Miller",
+      "title": "Dodgers Outlast the Giants to Reach the N.L.C.S. - The New York Times",
+      "description": "A late single by Cody Bellinger was the difference in a hard-fought pitching matchup between 109-win teams.",
+      "url": "https://www.nytimes.com/2021/10/15/sports/baseball/dodgers-giants-nlds.html",
+      "urlToImage": "https://static01.nyt.com/images/2021/11/14/sports/14mlb-giants-g5-1/merlin_196296480_2e272e09-5132-416e-b9fc-ae8d49d34be5-facebookJumbo.jpg",
+      "publishedAt": "2021-10-15T05:42:00Z",
+      "content": "SAN FRANCISCO Into the late innings they went, tied in the sixth, tied in the seventh, eighth and ninth. It was the 24th time the Los Angeles Dodgers and San Francisco Giants played this season, with… [+930 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ESPN India"
+      },
+      "author": null,
+      "title": "Reports -- Emails from Washington Football Team investigation show NFL's Jeff Pash, ex-WFT prez Bruce Allen had close relationship - ESPN India",
+      "description": "NFL general counsel Jeff Pash and former Washington Football Team executive Bruce Allen had a close relationship, according to emails collected during the NFL's workplace misconduct investigation of the Washington franchise.",
+      "url": "https://www.espn.in/nfl/story/_/id/32403341/reports-emails-washington-football-team-investigation-show-nfl-jeff-pash-bruce-allen-were-close",
+      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F0924%2Fr750208_1296x729_16%2D9.jpg",
+      "publishedAt": "2021-10-15T04:08:52Z",
+      "content": "NFL general counsel Jeff Pash and former Washington Football Team executive Bruce Allen had a close relationship, according to emails collected during the NFL's workplace misconduct investigation of … [+3511 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Ryan Gaydos",
+      "title": "Tom Brady, Leonard Fournette guide Bucs to victory over Eagles - Fox News",
+      "description": "Tom Brady had two touchdown passes and Leonard Fournette ran for two more as the Tampa Bay Buccaneers held off the Philadelphia Eagles on Thursday night, 28-22.",
+      "url": "https://www.foxnews.com/sports/tom-brady-leonard-fournette-bucs-eagles",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/10/Tom-Brady-Leonard-Fournette.jpg",
+      "publishedAt": "2021-10-15T04:03:38Z",
+      "content": "Tom Brady had two touchdown passes and Leonard Fournette ran for two more as the Tampa Bay Buccaneers held off the Philadelphia Eagles on Thursday night, 28-22.\r\nTampa Bay started off hot. Bradys two… [+2314 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Jody Serrano",
+      "title": "Google Sent More Than 50,000 Warnings to Users Targeted by Government-Backed Hackers This Year - Gizmodo",
+      "description": "The company said it tracks more than 270 targeted or government-backed attacker groups from more than 50 countries on \"any given day.\"",
+      "url": "https://gizmodo.com/google-sent-more-than-50-000-warnings-to-users-targeted-1847869340",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/647ade838abcf7b6b994907a5d058aa7.jpg",
+      "publishedAt": "2021-10-15T03:40:00Z",
+      "content": "If the internet is a digital Wild West, its time to lock your doors and close your windows. While the amount of cyber attackers and activity alone is alarming, in this episode, the featured villain i… [+4134 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cointelegraph"
+      },
+      "author": "Martin Young",
+      "title": "SEC likely to allow Bitcoin futures ETF to trade next week: Reports - Cointelegraph",
+      "description": "Financial media giant Bloomberg has reported that the SEC is now ready to approve a Bitcoin exchange-traded fund.",
+      "url": "https://cointelegraph.com/news/sec-likely-to-allow-bitcoin-futures-etf-to-trade-next-week-reports",
+      "urlToImage": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMTAvMTkxMWE1ODEtZWY5OS00YmY3LWIyN2QtZDZlODhlMmFhMTJjLmpwZw==.jpg",
+      "publishedAt": "2021-10-15T03:00:20Z",
+      "content": "The long wait for a Bitcoin exchange-traded product could soon be over according to sources reported by financial media giant Bloomberg.\r\nCiting people familiar with the matter Bloomberg has reported… [+2095 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "Microsoft To Shut LinkedIn In China Amid Scrutiny - NDTV",
+      "description": "Microsoft on Thursday said it will shut down career-oriented social network LinkedIn in China, citing a \"challenging operating environment\" as Beijing tightens control over tech firms.",
+      "url": "https://www.ndtv.com/world-news/microsoft-to-shut-linkedin-in-china-amid-scrutiny-2576041",
+      "urlToImage": "https://i.ndtvimg.com/i/2016-11/linkedin-reuters_650x400_71479371980.jpg",
+      "publishedAt": "2021-10-15T02:34:18Z",
+      "content": "LinkedIn lets people use personal and professional relationships to find jobs. (File)\r\nNew York: Microsoft on Thursday said it will shut down career-oriented social network LinkedIn in China, citing … [+1790 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Dan Berman and Tierney Sneed, CNN",
+      "title": "Texas 6-week abortion ban to remain in force, federal appeals court says - CNN",
+      "description": "The 5th US Circuit Court of Appeals said Thursday that it will allow Texas' controversial new law that bars abortions after about six weeks of pregnancy to stay in force while it considers an appeal of a judge's order blocking it.",
+      "url": "https://www.cnn.com/2021/10/14/politics/texas-abortion-federal-appeals-court/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211012120208-02-texas-abortion-protest-super-tease.jpg",
+      "publishedAt": "2021-10-15T02:21:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "Associated Press",
+      "title": "Appeals court keeps Texas abortion law in place - POLITICO",
+      "description": "The new decision by the 5th U.S. Circuit Court of Appeals extends a previous order that for now keeps in place the Texas law known as Senate Bill 8.",
+      "url": "https://www.politico.com/news/2021/10/14/court-texas-banning-abortions-516071",
+      "urlToImage": "https://static.politico.com/ff/71/0b44eade42f59200767a73968487/211014-abortions-protest-texas-ap-773.jpg",
+      "publishedAt": "2021-10-15T02:06:07Z",
+      "content": "The new decision by the 5th U.S. Circuit Court of Appeals extends a previous order that for now keeps in place the Texas law known as Senate Bill 8. It marks the third time since October that the con… [+1948 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Louis Casiano",
+      "title": "Miami police Chief Art Acevedo fired after tumultuous six months on job - Fox News",
+      "description": "Miami city commissioners voted unanimously to terminate the city's police chief Thursday after six acrimonious months that included consequential gaffes and feuding with lawmakers.",
+      "url": "https://www.foxnews.com/us/miami-chief-art-acevedo-fired",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/10/AP21287727249454.jpg",
+      "publishedAt": "2021-10-15T02:00:37Z",
+      "content": "Miami city commissioners voted unanimously to terminate the city's police chief Thursday after six acrimonious months that included consequential gaffes and feuding with lawmakers. \r\nCommissioners Jo… [+3923 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Guardian staff reporter",
+      "title": "Bill Clinton in California hospital with non-Covid infection - The Guardian",
+      "description": "Former US president ‘on the mend and in good spirits’ after being administered IV antibiotics and fluids",
+      "url": "https://amp.theguardian.com/us-news/2021/oct/14/bill-clinton-hospital-infection-california",
+      "urlToImage": null,
+      "publishedAt": "2021-10-15T01:56:00Z",
+      "content": "Bill ClintonFormer US president on the mend and in good spirits after being administered IV antibiotics and fluids\r\nGuardian staff and agencies\r\nThu 14 Oct 2021 22.37 EDT\r\nBill Clinton was admitted t… [+2713 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Jesse O’Neill",
+      "title": "COVID cases among children soared in September as kids returned to school - New York Post ",
+      "description": "September was the country’s worst month for new COVID-19 cases and deaths among children as kids returned to the classroom, federal data shows. The worrying trend comes as government officials appe…",
+      "url": "https://nypost.com/2021/10/14/covid-cases-among-children-soared-in-september-as-kids-returned-to-school/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/10/kid-covid-rates-soar-525.jpg?quality=90&strip=all&w=1024",
+      "publishedAt": "2021-10-15T01:40:00Z",
+      "content": "September was the countrys worst month for new COVID-19 cases and deaths among children as kids returned to the classroom, federal data shows.\r\nThe worrying trend comes as government officials appear… [+931 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Brian Lewis",
+      "title": "Nets' Steve Nash 'didn't listen' to Kyrie Irving's Instagram Live - New York Post ",
+      "description": "Nets coach Steve Nash said he “didn’t listen” to Kyrie Irving’s Instagram Live on Wednesday in which the star explained why he wasn’t vaccinated.",
+      "url": "https://nypost.com/2021/10/14/steve-nash-didnt-listen-to-kyrie-irvings-instagram-live/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/10/Nash.Irving.jpg?quality=90&strip=all&w=1024",
+      "publishedAt": "2021-10-15T01:32:00Z",
+      "content": "For the foreseeable future, Kyrie Irving is done playing and practicing with the Nets. And it sure sounds like theyre done talking about him.\r\nIrving tried to clear the air Wednesday night, but inste… [+4014 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "Hindustantimes",
+      "title": "Safe from Taliban: 100 Afghan women football players, their families evacuated from Afghanistan to Qatar - Hindustan Times",
+      "description": "FIFA, the football's world governing body, has been working closely with the Qatar government to coordinate the evacuation of players from Afghanistan, which is under the Taliban. | World News",
+      "url": "https://www.hindustantimes.com/world-news/safe-from-taliban-100-afghan-women-football-players-evacuated-to-qatar-101634259526130.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2021/10/15/1600x900/Taliban_Afghanistan_women_players_1634259721478_1634259721744.jpg",
+      "publishedAt": "2021-10-15T01:09:10Z",
+      "content": "As many as 100 women footballers, including members of the national football team, were evacuated from Afghanistan, which is under the Taliban, on Thursday on a flight to Doha, the Qatari government … [+2763 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TVLine"
+      },
+      "author": "Matt Webb Mitovich",
+      "title": "IATSE Reports 'Progress' in Talks With AMPTP, as Deadline Nears for Strike That Would Halt TV/Film Productions - TVLine",
+      "description": "Negotiations between the International Alliance of Theatrical Stage Employees (IATSE) and the Alliance of Motion Picture and Television Producers (AMPTP) made “good progress” after the labor union set a Monday deadline for a strike that would shut down TV and…",
+      "url": "https://tvline.com/2021/10/14/iatse-strike-deadline-progress-amptp-negotiations/",
+      "urlToImage": "https://tvline.com/wp-content/uploads/2021/10/iatse-strike.jpg?w=620",
+      "publishedAt": "2021-10-15T00:54:00Z",
+      "content": "Negotiations between the International Alliance of Theatrical Stage Employees (IATSE) and the Alliance of Motion Picture and Television Producers (AMPTP) made “good progress” after the labor union se… [+1537 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Clubhouse has a new Music Mode that could make it the place to play - The Verge",
+      "description": "Music Mode offers high-quality, stereo sound for listeners. With Amazon’s live music platform on the horizon and Twitter and Spotify eying the space, Clubhouse is likely looking to step up its game in the music department.",
+      "url": "https://www.theverge.com/2021/10/14/22727164/clubhouse-music-mode-compete-amazon-twitter",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/t4t6Wmz5_362H5V2CHbnkuj_sdA=/0x588:8192x4877/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22927868/1231631262.jpg",
+      "publishedAt": "2021-10-15T00:41:18Z",
+      "content": "Just as Amazon is reportedly working on a live music platform of its own\r\nPhoto by Jaap Arriens/NurPhoto via Getty Images\r\nClubhouse has a tremendous amount of competition from big companies that wan… [+2404 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Brett Samuels",
+      "title": "Biden signs bill to raise debt ceiling | TheHill - The Hill",
+      "description": "President Biden on Thursday signed a bill raising the debt ceiling, averting a def...",
+      "url": "https://thehill.com/homenews/administration/576304-biden-signs-bill-to-raise-debt-ceiling",
+      "urlToImage": "https://thehill.com/sites/default/files/bidenjoe_getty_10052021_2.jpg",
+      "publishedAt": "2021-10-15T00:15:23Z",
+      "content": "President BidenJoe BidenSinema fundraising in Europe as reconciliation talks 'ongoing': report Mexico urges more US investment in Central America to stem migration flowsTrump calls into Take Back Vir… [+1983 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deadline"
+      },
+      "author": "Bruce Haring",
+      "title": "Adele Releases ‘Easy On Me’, First Single And Video From New Album ’30’ - Deadline",
+      "description": "The first new music in six years from British superstar songstress Adele is out today, marking her return after a long hiatus that saw a divorce and a remarkable physical transformation. The new song, “Easy on Me,” is a spare midtempo ballad that, like her ot…",
+      "url": "https://deadline.com/2021/10/adele-first-single-video-new-album-easy-on-me-video-1234856189/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2021/10/Adele-e1634256422599.jpg?w=875",
+      "publishedAt": "2021-10-15T00:09:00Z",
+      "content": "The first new music in six years from British superstar songstress Adele is out today, marking her return after a long hiatus that saw a divorce and a remarkable physical transformation.\r\nThe new son… [+762 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Juli Clover",
+      "title": "How to Watch the 'Unleashed' MacBook Pro Apple Event on October 18 - MacRumors",
+      "description": "Apple's second fall event is coming up and is set to take place on Monday, October 18 at 10:00 a.m. Pacific Time. As with Apple's last...",
+      "url": "https://www.macrumors.com/how-to/watch-october-18-apple-event/",
+      "urlToImage": "https://images.macrumors.com/t/bL0DWgv4paAggpEC8iL03l1MFd8=/1852x/https://images.macrumors.com/article-new/2021/10/10.18.21-event-banner-16X9.jpg",
+      "publishedAt": "2021-10-14T23:33:41Z",
+      "content": "Apple's second fall event is coming up and is set to take place on Monday, October 18 at 10:00 a.m. Pacific Time. As with Apple's last several events, \"Unleashed\" will be digital only and streamed on… [+3404 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Post Editorial Board",
+      "title": "Team Biden finally acknowledges it needs a Plan B for Iran - New York Post ",
+      "description": "President Joe Biden’s top people are finally starting to face reality on one front, as they admit Iran is unlikely to return to the nuclear agreement, despite their months of pleading.",
+      "url": "https://nypost.com/2021/10/14/team-biden-finally-acknowledges-it-needs-a-plan-b-for-iran/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/10/biden-iran-index-1.jpg?quality=90&strip=all&w=1024",
+      "publishedAt": "2021-10-14T23:27:00Z",
+      "content": "President Joe Biden’s top people are finally starting to face reality on one front, as they admit Iran is unlikely to return to the nuclear agreement, despite their months of pleading.\r\nTehran, in fa… [+2540 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Robert Durst: US millionaire sentenced to life for murder - BBC News",
+      "description": "Robert Durst was convicted of killing his best friend in 2000 and is a suspect in two other deaths.",
+      "url": "https://www.bbc.com/news/world-us-canada-58919749",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/AA59/production/_121090634_screenshot2021-10-14at2.25.23pm.png",
+      "publishedAt": "2021-10-14T22:30:34Z",
+      "content": "Media caption, Watch: The moment Durst is sentenced to life in prison\r\nUS real estate heir Robert Durst, subject of HBO crime documentary series The Jinx, has been sentenced to life in prison for kil… [+2979 chars]"
+    }
+  ]
+}

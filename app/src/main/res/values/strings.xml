@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="news_fragment">News Fragment</string>
+    <string name="saved_fragment">Saved News Fragment</string>
+    <string name="info_fragment">Info Fragment</string>
+    <string name="news_image">News Image</string>
+    <string name="news_headline">News Headlines</string>
+    <string name="saved_news">Saved News</string>
+</resources>
